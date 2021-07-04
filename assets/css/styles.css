@@ -164,6 +164,9 @@ img{
     font-weight: var(--font-medium);
 }
 
+.nav__logo:hover{
+    color: var(--first-color);
+}
 /* show menu */
 
 
